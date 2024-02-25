@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on Machine Learning<br>👯 I’m looking for collaborative development<br>🌱 I’m currently learning NLP<br>💬 Ask me about Data Analytics<br>⚡ Fun fact - I comment my code so thoroughly, even my future self understands it – a rare feat indeed!
 
 
 ## 🌐 Socials:
@@ -19,7 +19,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ashritadinda&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ashritadinda&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
